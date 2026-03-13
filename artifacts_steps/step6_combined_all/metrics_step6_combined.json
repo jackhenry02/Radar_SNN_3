@@ -1,0 +1,32 @@
+{
+  "final_range_train_acc": 0.9321428571428572,
+  "final_az_train_acc": 0.425,
+  "final_range_test_acc": 0.8964285714285715,
+  "final_az_test_acc": 0.37142857142857144,
+  "best_test_loss": 2.419878796168736,
+  "ece_range": 0.07047511219446145,
+  "ece_azimuth": 0.17855442719800133,
+  "trainable_params": 53197,
+  "params": {
+    "hidden": 128,
+    "beta": 0.95,
+    "lr": 0.0009,
+    "batch_size": 64,
+    "lambda_az_max": 1.8,
+    "az_warmup_epochs": 10,
+    "noise_std": 0.012,
+    "reverb_level": 0.14
+  },
+  "learned_delay_range_min": 0.05604636296629906,
+  "learned_delay_range_max": 639.94189453125,
+  "learned_delay_az_min": 0.05352640897035599,
+  "learned_delay_az_max": 639.9494018554688,
+  "artifacts": {
+    "curves": "artifacts_steps/step6_combined_all/plots/curves_step6_combined.png",
+    "range_confusion": "artifacts_steps/step6_combined_all/plots/confusion_range_step6_combined.png",
+    "azimuth_confusion": "artifacts_steps/step6_combined_all/plots/confusion_az_step6_combined.png",
+    "calibration": "artifacts_steps/step6_combined_all/plots/calibration_step6_combined.png",
+    "per_bin_error": "artifacts_steps/step6_combined_all/plots/per_bin_error_step6_combined.png",
+    "learned_delays": "artifacts_steps/step6_combined_all/plots/learned_delays_step6_combined.png"
+  }
+}
