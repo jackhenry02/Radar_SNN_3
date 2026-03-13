@@ -1,0 +1,12 @@
+{
+  "params": {
+    "hidden_size": 96,
+    "beta": 0.95,
+    "lr": 0.001,
+    "batch_size": 64
+  },
+  "metadata": {
+    "source": "final_training",
+    "timestamp": "2026-03-13 11:17:43"
+  }
+}

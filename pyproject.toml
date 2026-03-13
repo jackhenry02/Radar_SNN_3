@@ -8,6 +8,9 @@ dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "numpy<2",
+    "optuna>=4.7.0",
+    "optuna-dashboard>=0.20.0",
+    "pandas>=2.3.3",
     "snntorch>=0.9.4",
     "torch>=2.10.0",
 ]

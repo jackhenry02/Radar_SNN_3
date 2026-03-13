@@ -1,0 +1,7 @@
+{
+  "best_test_loss": 0.5094057361284892,
+  "final_test_acc": 0.8791666666666667,
+  "final_train_acc": 0.9364583333333333,
+  "learned_delay_min": 0.07968099415302277,
+  "learned_delay_max": 639.9168701171875
+}

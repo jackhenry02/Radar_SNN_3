@@ -1,0 +1,7 @@
+{
+  "best_test_loss": 2.262859848567418,
+  "final_range_test_acc": 0.9357142857142857,
+  "final_az_test_acc": 0.24285714285714285,
+  "final_range_train_acc": 0.9669642857142857,
+  "final_az_train_acc": 0.3508928571428571
+}
