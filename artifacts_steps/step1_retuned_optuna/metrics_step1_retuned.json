@@ -1,0 +1,19 @@
+{
+  "final_train_acc": 1.0,
+  "final_test_acc": 1.0,
+  "best_test_loss": 0.005165778410931428,
+  "ece": 0.005148649215698242,
+  "trainable_params": 10004,
+  "params": {
+    "hidden_size": 128,
+    "beta": 0.9114128604367253,
+    "lr": 0.002877402293315549,
+    "batch_size": 64
+  },
+  "artifacts": {
+    "curves": "artifacts_steps/step1_retuned_optuna/plots/curves_step1_retuned.png",
+    "confusion": "artifacts_steps/step1_retuned_optuna/plots/confusion_step1_retuned.png",
+    "calibration": "artifacts_steps/step1_retuned_optuna/plots/calibration_step1_retuned.png",
+    "per_bin_error": "artifacts_steps/step1_retuned_optuna/plots/per_bin_error_step1_retuned.png"
+  }
+}

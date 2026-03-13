@@ -1,0 +1,27 @@
+{
+  "final_range_train_acc": 0.9881944444444445,
+  "final_az_train_acc": 0.6972222222222222,
+  "final_range_test_acc": 0.9138888888888889,
+  "final_az_test_acc": 0.48055555555555557,
+  "best_test_loss": 2.0140459378560385,
+  "ece_range": 0.03868544747432075,
+  "ece_azimuth": 0.23966357194715077,
+  "trainable_params": 95069,
+  "params": {
+    "hidden": 192,
+    "beta": 0.8924342217063623,
+    "lr": 0.0023325181666661154,
+    "batch_size": 64,
+    "lambda_az_max": 2.3809529881069107,
+    "az_warmup_epochs": 7,
+    "noise_std": 0.014287942175619527,
+    "reverb_level": 0.1425243387811836
+  },
+  "artifacts": {
+    "curves": "artifacts_steps/step5_retuned_optuna_realistic/plots/curves_step5_retuned.png",
+    "range_confusion": "artifacts_steps/step5_retuned_optuna_realistic/plots/confusion_range_step5_retuned.png",
+    "azimuth_confusion": "artifacts_steps/step5_retuned_optuna_realistic/plots/confusion_azimuth_step5_retuned.png",
+    "calibration": "artifacts_steps/step5_retuned_optuna_realistic/plots/calibration_step5_retuned.png",
+    "per_bin_error": "artifacts_steps/step5_retuned_optuna_realistic/plots/per_bin_error_step5_retuned.png"
+  }
+}

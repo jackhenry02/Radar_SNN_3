@@ -1,0 +1,15 @@
+{
+  "params": {
+    "hidden_size": 128,
+    "beta": 0.9114128604367253,
+    "lr": 0.002877402293315549,
+    "batch_size": 64
+  },
+  "metadata": {
+    "storage": "sqlite:////Users/jackhenry/Library/CloudStorage/OneDrive-UniversityofCambridge/IIB Project work/Radar_SNN_3/artifacts_steps/step1_retuned_optuna/optuna/step1_retuned.sqlite3",
+    "study_name": "step1_retuned_optuna",
+    "timestamp": "2026-03-13 12:11:30",
+    "used_perfect_early_stop": true,
+    "perfect_trial_number": 3
+  }
+}

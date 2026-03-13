@@ -1,0 +1,19 @@
+{
+  "params": {
+    "hidden": 192,
+    "beta": 0.8924342217063623,
+    "lr": 0.0023325181666661154,
+    "batch_size": 64,
+    "lambda_az_max": 2.3809529881069107,
+    "az_warmup_epochs": 7,
+    "noise_std": 0.014287942175619527,
+    "reverb_level": 0.1425243387811836
+  },
+  "metadata": {
+    "storage": "sqlite:////Users/jackhenry/Library/CloudStorage/OneDrive-UniversityofCambridge/IIB Project work/Radar_SNN_3/artifacts_steps/step5_retuned_optuna_realistic/optuna/step5_retuned.sqlite3",
+    "study_name": "step5_retuned_optuna_realistic",
+    "timestamp": "2026-03-13 12:33:27",
+    "used_perfect_early_stop": false,
+    "perfect_trial_number": null
+  }
+}
